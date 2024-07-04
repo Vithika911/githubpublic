@@ -1,0 +1,10 @@
+this is my new new repository
+
+#chat_project requirment
+
+images 
+typing option
+color 
+file attach option
+
+video call option
